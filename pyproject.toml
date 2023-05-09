@@ -5,7 +5,7 @@ description = "Add a short description here"
 authors = [
     { name = "hglong16", email = "intihad.vuong@gmail.com" }
 ]
-dependencies = []
+dependencies = ["pylint-odoo~=8.0.19"]
 readme = "README.md"
 requires-python = ">= 3.11"
 
